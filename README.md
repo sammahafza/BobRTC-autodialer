@@ -9,6 +9,8 @@ Chrome Driver
 change the email and the password if you want to automaticly login to Discord.
 change these variables to the desired values:
 
-#### time_stamp_hungup
-#### time_stamp_bot
-#### bot_name
+**time_stamp_hungup**
+
+**time_stamp_bot**
+
+**bot_name**
